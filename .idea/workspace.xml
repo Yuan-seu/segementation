@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="004734f0-3b3d-43f1-91ae-50d1e240c767" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="segmentation" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/parameter.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectId" id="1jsBlCyPufOKg9zrrv3g9ASGL65" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="X:\研二\异常检测\低压电器寿命试验\分段算法实现\segmentation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.sliding windows">
+    <configuration name="111" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="segmentation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/111.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="file_rw" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="segmentation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/file_rw.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="least_square" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="segmentation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/least_square.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="show" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="segmentation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/show.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sliding windows" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="segmentation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="F:\SOFTWARE\anaconda\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sliding windows.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.111" />
+      <item itemvalue="Python.least_square" />
+      <item itemvalue="Python.show" />
+      <item itemvalue="Python.sliding windows" />
+      <item itemvalue="Python.file_rw" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sliding windows" />
+        <item itemvalue="Python.111" />
+        <item itemvalue="Python.show" />
+        <item itemvalue="Python.file_rw" />
+        <item itemvalue="Python.least_square" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="004734f0-3b3d-43f1-91ae-50d1e240c767" name="Default Changelist" comment="" />
+      <created>1604583067133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604583067133</updated>
+      <workItem from="1604583068495" duration="11140000" />
+      <workItem from="1604802878098" duration="60900000" />
+      <workItem from="1605144242415" duration="7853000" />
+      <workItem from="1605166616521" duration="5782000" />
+      <workItem from="1605173316833" duration="31181000" />
+      <workItem from="1605699711167" duration="40552000" />
+      <workItem from="1605881894368" duration="12018000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2869" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605841073198">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state x="2869" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680/2560.0.1707.920@2560.0.1707.920" timestamp="1605841073198" />
+    <state x="3144" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605844014287">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state x="3144" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680/2560.0.1707.920@2560.0.1707.920" timestamp="1605844014287" />
+    <state x="3123" y="111" key="FileChooserDialogImpl" timestamp="1604998324919">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state x="422" y="82" key="FileChooserDialogImpl/0.0.1280.680/2560.0.1707.920@0.0.1280.680" timestamp="1604583184256" />
+    <state x="3123" y="111" key="FileChooserDialogImpl/0.0.1280.680/2560.0.1707.920@2560.0.1707.920" timestamp="1604998324919" />
+    <state width="1663" height="299" key="GridCell.Tab.0.bottom" timestamp="1605950332901">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state width="1238" height="197" key="GridCell.Tab.0.bottom/0.0.1280.680/2560.0.1707.920@0.0.1280.680" timestamp="1605535968386" />
+    <state width="1663" height="299" key="GridCell.Tab.0.bottom/0.0.1280.680/2560.0.1707.920@2560.0.1707.920" timestamp="1605950332901" />
+    <state width="1238" height="196" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1605593348665" />
+    <state width="1663" height="299" key="GridCell.Tab.0.center" timestamp="1605950332901">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state width="1238" height="197" key="GridCell.Tab.0.center/0.0.1280.680/2560.0.1707.920@0.0.1280.680" timestamp="1605535968386" />
+    <state width="1663" height="299" key="GridCell.Tab.0.center/0.0.1280.680/2560.0.1707.920@2560.0.1707.920" timestamp="1605950332901" />
+    <state width="1238" height="196" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1605593348665" />
+    <state width="1663" height="299" key="GridCell.Tab.0.left" timestamp="1605950332901">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state width="1238" height="197" key="GridCell.Tab.0.left/0.0.1280.680/2560.0.1707.920@0.0.1280.680" timestamp="1605535968386" />
+    <state width="1663" height="299" key="GridCell.Tab.0.left/0.0.1280.680/2560.0.1707.920@2560.0.1707.920" timestamp="1605950332901" />
+    <state width="1238" height="196" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1605593348665" />
+    <state width="1663" height="299" key="GridCell.Tab.0.right" timestamp="1605950332901">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state width="1238" height="197" key="GridCell.Tab.0.right/0.0.1280.680/2560.0.1707.920@0.0.1280.680" timestamp="1605535968386" />
+    <state width="1663" height="299" key="GridCell.Tab.0.right/0.0.1280.680/2560.0.1707.920@2560.0.1707.920" timestamp="1605950332901" />
+    <state width="1238" height="196" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1605593348665" />
+    <state width="1663" height="299" key="GridCell.Tab.1.bottom" timestamp="1605950332901">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680/2560.0.1707.920@0.0.1280.680" timestamp="1604585814381" />
+    <state width="1663" height="299" key="GridCell.Tab.1.bottom/0.0.1280.680/2560.0.1707.920@2560.0.1707.920" timestamp="1605950332901" />
+    <state width="1663" height="299" key="GridCell.Tab.1.center" timestamp="1605950332901">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.1.center/0.0.1280.680/2560.0.1707.920@0.0.1280.680" timestamp="1604585814380" />
+    <state width="1663" height="299" key="GridCell.Tab.1.center/0.0.1280.680/2560.0.1707.920@2560.0.1707.920" timestamp="1605950332901" />
+    <state width="1663" height="299" key="GridCell.Tab.1.left" timestamp="1605950332901">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.1.left/0.0.1280.680/2560.0.1707.920@0.0.1280.680" timestamp="1604585814380" />
+    <state width="1663" height="299" key="GridCell.Tab.1.left/0.0.1280.680/2560.0.1707.920@2560.0.1707.920" timestamp="1605950332901" />
+    <state width="1663" height="299" key="GridCell.Tab.1.right" timestamp="1605950332901">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state width="1238" height="204" key="GridCell.Tab.1.right/0.0.1280.680/2560.0.1707.920@0.0.1280.680" timestamp="1604585814381" />
+    <state width="1663" height="299" key="GridCell.Tab.1.right/0.0.1280.680/2560.0.1707.920@2560.0.1707.920" timestamp="1605950332901" />
+    <state x="2915" y="103" key="SettingsEditor" timestamp="1605844134174">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state x="2915" y="103" key="SettingsEditor/0.0.1280.680/2560.0.1707.920@2560.0.1707.920" timestamp="1605844134174" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1605621947409">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1280.680/2560.0.1707.920@2560.0.1707.920" timestamp="1605621947409" />
+    <state x="3076" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1605669573808">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state x="3076" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/2560.0.1707.920@2560.0.1707.920" timestamp="1605669573808" />
+    <state x="3136" y="372" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1605666895092">
+      <screen x="2560" y="0" width="1707" height="920" />
+    </state>
+    <state x="3136" y="372" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1280.680/2560.0.1707.920@2560.0.1707.920" timestamp="1605666895092" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="loc" />
+        <watch expression="loc" />
+        <watch expression="loc" />
+        <watch expression="loc" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/segmentation$sliding_windows.coverage" NAME="sliding windows Coverage Results" MODIFIED="1605945677188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/segmentation$111.coverage" NAME="111 Coverage Results" MODIFIED="1605945598697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/segmentation$least_square.coverage" NAME="least_square Coverage Results" MODIFIED="1605424951581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/segmentation$file_rw.coverage" NAME="file_rw Coverage Results" MODIFIED="1605841853094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/segmentation$test.coverage" NAME="test Coverage Results" MODIFIED="1605150324811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/segmentation$Excel_read.coverage" NAME="Excel_read Coverage Results" MODIFIED="1605063064988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/segmentation$show.coverage" NAME="show Coverage Results" MODIFIED="1605857958393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
